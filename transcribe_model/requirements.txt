@@ -1,0 +1,16 @@
+torch
+torchaudio
+librosa
+numpy
+Levenshtein
+fastapi
+uvicorn
+gunicorn
+python-multipart
+rapidfuzz
+lingua-language-detector
+gruut[en]
+nemo_toolkit[asr]
+scipy
+jinja2
+python-multipart
