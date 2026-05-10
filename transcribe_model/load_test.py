@@ -46,7 +46,7 @@ DEFAULT_TIMEOUT = 60
 DEFAULT_RAMP_UP = 0
 
 TRANSCRIBE_PATH = "/api/games/transcribe"
-LOGIN_PATH = "/api/auth/student-login/"
+LOGIN_PATH = "/api/auth/student-login"
 
 RESET = "\033[0m"
 GREEN = "\033[92m"
