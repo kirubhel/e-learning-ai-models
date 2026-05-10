@@ -14,3 +14,4 @@ nemo_toolkit[asr]
 scipy
 jinja2
 python-multipart
+aiohttp
